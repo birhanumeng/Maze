@@ -4,7 +4,7 @@
  * distanceBetweenPoints - Finds horizontal intersection with the wall
  * @x1: x coordinate of the starting point
  * @y1: y coordinate oh the starting point
- * @x2: x coordinate of the end point
+ * @x2: x coordinate of the end point 
  * @y2: y coordinate of the end point
  * Return: the distance between two points
  */
