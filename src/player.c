@@ -3,7 +3,7 @@
 
 /**
  * movePlayer - set the next position of the player
- * @DeltaTime: time elapsed since the last frame
+ * @DeltaTime: time elapsed since the last frame 
 */
 
 void movePlayer(float DeltaTime)
