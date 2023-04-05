@@ -7,9 +7,12 @@ This maze project implemented in C programing language using SDL2 library on ubu
 ```cmd
 git clone https://github.com/birhanumeng/Maze.git
 ```
+### Compilation
+```cmd
+gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --libs --cflags`;
 
 ### Usage
-Execute the following command without any argumets=
+Execute the following command without any argumets
 ```cmd
 maze
 ```
