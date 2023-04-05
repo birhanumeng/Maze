@@ -18,6 +18,6 @@ maze
 ```
 
 ### About the author
-I realy interested and inspired in software development. I belive if you working, you can do great things. Especialy software development need interst and give time. In this project I try to implement 2D maze project in short period of time. Team work is also very important in such kinds of project.\
+I realy interested and inspired in software development. I belive if you working, you can do great things. Especialy software development need interst and give time. In this project I try to implement 2D maze project in short period of time. Team work is also very important in such kinds of project.\\
 Berhnu Mengstie([https://github.com/birhanumeng](https://github.com/birhanumeng/))
 
