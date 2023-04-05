@@ -2,7 +2,7 @@
 
 /**
  * SDL_KEYDOWN_FUNC - process input when a key is down
- * @event: union that contains structures for the different event types
+ * @event: union that contains structures for the different event types 
 */
 
 void SDL_KEYDOWN_FUNC(SDL_Event event)
