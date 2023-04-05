@@ -48,7 +48,7 @@ void update_game(void)
 }
 
 /**
- * render - calls all functions needed for on-screen rendering
+ * render - calls all functions needed for on screen rendering
  *
 */
 
