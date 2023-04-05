@@ -7,7 +7,7 @@ static SDL_Window *window;
 
 /**
  * initializeWindow - Initialize window to display the maze
- * Return: true in case of success, false if it fails
+ * Return: true in case of success, false if  it fails
 */
 bool initializeWindow(void)
 {
